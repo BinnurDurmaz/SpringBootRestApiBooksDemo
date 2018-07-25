@@ -1,0 +1,5 @@
+com\binnur\springbootrestapiproject\controller\BookController.class
+com\binnur\springbootrestapiproject\dao\BookDAO.class
+com\binnur\springbootrestapiproject\repository\BookRepository.class
+com\binnur\springbootrestapiproject\BookApplication.class
+com\binnur\springbootrestapiproject\model\Book.class
